@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=3.3V_ESP Pin=C15-1
+Removed Pin From Net: NetName=PGND Pin=C15-2
+Removed Pin From Net: NetName=PGND Pin=C16-1
+Removed Pin From Net: NetName=3.3V_ESP Pin=C16-2
+Removed Pin From Net: NetName=PGND Pin=C17-1
+Removed Pin From Net: NetName=5V Pin=C17-2
+Removed Pin From Net: NetName=3.3V_ESP Pin=J1-1
+Removed Pin From Net: NetName=5V Pin=U10-1
+Removed Pin From Net: NetName=PGND Pin=U10-2
+Removed Pin From Net: NetName=5V Pin=U10-3
+Removed Pin From Net: NetName=3.3V_ESP Pin=U10-5
+Removed Member From Class: ClassName=05-USB-UART Member=C15
+Removed Member From Class: ClassName=05-USB-UART Member=C16
+Removed Member From Class: ClassName=05-USB-UART Member=C17
+Removed Member From Class: ClassName=05-USB-UART Member=J1
+Removed Member From Class: ClassName=05-USB-UART Member=U10
+Added Member To Class: ClassName=05-USB-UART Member=Component Q5 DTC143ZKAT146
+Added Member To Class: ClassName=05-USB-UART Member=Component Q6 DTC143ZKAT146
+Added Member To Class: ClassName=05-USB-UART Member=Component R25 10K
+Added Member To Class: ClassName=01-POWER Member=Component U1 AMS1117

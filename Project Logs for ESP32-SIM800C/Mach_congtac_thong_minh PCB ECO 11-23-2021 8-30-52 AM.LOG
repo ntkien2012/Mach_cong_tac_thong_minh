@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetJP2_1 Pin=JP4-2
+Removed Pin From Net: NetName=NetJP3_1 Pin=JP5-2
+Removed Pin From Net: NetName=NetJP6_1 Pin=JP8-2
+Removed Pin From Net: NetName=NetJP7_1 Pin=JP9-2
+Removed Member From Class: ClassName=04-OUTPUT Member=JP4
+Removed Member From Class: ClassName=04-OUTPUT Member=JP5
+Removed Member From Class: ClassName=04-OUTPUT Member=JP8
+Removed Member From Class: ClassName=04-OUTPUT Member=JP9
+Added Pin To Net: NetName=NetJP2_1 Pin=RL1-4
+Added Pin To Net: NetName=NetJP3_1 Pin=RL2-4
+Added Pin To Net: NetName=NetJP6_1 Pin=RL3-4
+Added Pin To Net: NetName=NetJP7_1 Pin=RL4-4

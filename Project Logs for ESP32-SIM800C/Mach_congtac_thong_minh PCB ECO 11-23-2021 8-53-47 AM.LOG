@@ -1,0 +1,5 @@
+Added Component: Designator=U1(SOT230P700X180-4N)
+Added Pin To Net: NetName=PGND Pin=U1-1
+Added Pin To Net: NetName=3.3V_ESP Pin=U1-2
+Added Pin To Net: NetName=5V Pin=U1-3
+Added Member To Class: ClassName=01-POWER Member=Component U1 AMS1117

@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=JP3 Old Footprint=DOMINO_OSTTC_3P New Footprint=DOMINO_OSTTC_2P
+Added Component: Designator=JP5(DOMINO_OSTTC_2P)
+Add component (AddParameter): Name = "Digikey"; Value = "ED2609-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Connector 2"; VariantName = "[No Variations]"
+Added Component: Designator=JP7(DOMINO_OSTTC_2P)
+Add component (AddParameter): Name = "Digikey"; Value = "ED2609-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Connector 2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJP5_1 Pin=JP5-1
+Added Pin To Net: NetName=NetJP3_1 Pin=JP5-2
+Added Pin To Net: NetName=NetJP7_1 Pin=JP7-1
+Added Pin To Net: NetName=NetJP7_2 Pin=JP7-2
+Added Member To Class: ClassName=04-OUTPUT Member=Component JP5 ED2609-ND
+Added Member To Class: ClassName=04-OUTPUT Member=Component JP7 ED2609-ND

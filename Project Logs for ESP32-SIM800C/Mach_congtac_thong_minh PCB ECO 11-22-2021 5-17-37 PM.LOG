@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=Q4 Old Footprint=6# DTC143ZKAT146-E New Footprint=MCH3209-TL-E  SOT-323
+Added Component: Designator=Q2(MCH3209-TL-E  SOT-323)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "D:\Dropbox\Datasheets\Transistors\P Channel Bipolar\2SC1815.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "MCH3209-TL-EOSCT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=PGND Pin=Q2-2
+Added Pin To Net: NetName=NetD2_1 Pin=Q2-3
+Added Member To Class: ClassName=04-OUTPUT Member=Component Q2 MCH3209-TL-E

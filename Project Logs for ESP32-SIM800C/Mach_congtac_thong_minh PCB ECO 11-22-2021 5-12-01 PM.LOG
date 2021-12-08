@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=R4 Old Footprint=Cap Ceramic 0603 SMD New Footprint=Res 0603 SMD
+Change Component Footprint: Designator=R2 Old Footprint=Res 0805 SMD New Footprint=Res 0603 SMD
+Change Component Footprint: Designator=R5 Old Footprint=Res 0805 SMD New Footprint=Res 0603 SMD
+Change Component Footprint: Designator=R7 Old Footprint=Res 0805 SMD New Footprint=Res 0603 SMD
+Change Component Footprint: Designator=R8 Old Footprint=Res 0805 SMD New Footprint=Res 0603 SMD
+Change Component Footprint: Designator=R9 Old Footprint=Res 0805 SMD New Footprint=Res 0603 SMD
+Change Component Footprint: Designator=R10 Old Footprint=Res 0805 SMD New Footprint=Res 0603 SMD
+Change Component Footprint: Designator=R11 Old Footprint=Res 0805 SMD New Footprint=Res 0603 SMD

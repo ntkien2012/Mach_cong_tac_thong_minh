@@ -1,0 +1,14 @@
+Added Component: Designator=U2(CONV_HLK-5M05)
+Added Component: Designator=U3(SOIC127P600X175-8N)
+Added Pin To Net: NetName=NetC2_2 Pin=U2-1
+Added Pin To Net: NetName=V220N Pin=U2-2
+Added Pin To Net: NetName=PGND Pin=U2-3
+Added Pin To Net: NetName=5V Pin=U2-4
+Added Pin To Net: NetName=5V Pin=U3-1
+Added Pin To Net: NetName=NetC7_2 Pin=U3-2
+Added Pin To Net: NetName=NetC8_2 Pin=U3-3
+Added Pin To Net: NetName=NetC9_2 Pin=U3-4
+Added Pin To Net: NetName=PGND Pin=U3-5
+Added Pin To Net: NetName=NetR4_1 Pin=U3-6
+Added Member To Class: ClassName=01-POWER Member=Component U2 HLK-5M05
+Added Member To Class: ClassName=01-POWER Member=Component U3 HLW8032

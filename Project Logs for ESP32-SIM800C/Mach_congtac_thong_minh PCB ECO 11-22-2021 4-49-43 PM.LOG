@@ -1,0 +1,16 @@
+Added Member To Class: ClassName=02-ESP32 Member=Component C10 22uF/25V/C0805/10%
+Added Member To Class: ClassName=02-ESP32 Member=Component C11 0.1uF/25V/C0805/10%
+Added Member To Class: ClassName=02-ESP32 Member=Component C12 0.1uF/25V/C0805/10%
+Added Member To Class: ClassName=02-ESP32 Member=Component C13 10uF/25V/C0805/10%
+Added Member To Class: ClassName=04-OUTPUT Member=Component D1 SSC53L-E3/57T
+Added Member To Class: ClassName=04-OUTPUT Member=Component D3 SSC53L-E3/57T
+Added Member To Class: ClassName=04-OUTPUT Member=Component JP2 ED2609-ND
+Added Member To Class: ClassName=04-OUTPUT Member=Component JP4 ED2609-ND
+Added Member To Class: ClassName=04-OUTPUT Member=Component Q3 MCH3209-TL-E
+Added Member To Class: ClassName=02-ESP32 Member=Component R12 10K/R0805/1%
+Added Member To Class: ClassName=02-ESP32 Member=Component R13 0R/R0805/1%
+Added Member To Class: ClassName=04-OUTPUT Member=Component R16 10K
+Added Member To Class: ClassName=04-OUTPUT Member=Component R18 10K
+Added Member To Class: ClassName=02-ESP32 Member=Component U4 ESP-WROOM-32
+Added Member To Class: ClassName=04-OUTPUT Member=Component U6 TPC817S1B-SOP4
+Added Member To Class: ClassName=04-OUTPUT Member=Component U8 TPC817S1B-SOP4

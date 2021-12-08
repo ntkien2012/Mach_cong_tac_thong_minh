@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=5V Pin=F1-2
+Removed Pin From Net: NetName=5V Pin=F1-2
+Removed Member From Class: ClassName=01-POWER Member=F1
+Change Component Description : Designator=C2 Old Description=0.1uF/275Vac New Description=0.1 µF Film Capacitor 275V - Polypropylene (PP), Metallized Radial
+Added Pin To Net: NetName=5V Pin=U2-4

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetR14_1 Pin=U4-5
+Added Pin To Net: NetName=NetR14_1 Pin=U4-16
+Added Pin To Net: NetName=NetU7_2 Pin=U7-2
+Added Net: Name=NetU7_2
+Added Member To Class: ClassName=04-OUTPUT Member=Component JP5 ED2609-ND

@@ -1,0 +1,58 @@
+Change Component Footprint: Designator=L1 Old Footprint=4# clf10040XX New Footprint=ASPI-7318-8R2M-TCT-ND
+Change Component Footprint: Designator=L2 Old Footprint=11# LQH32PN2R2 New Footprint=ASPI-7318-8R2M-TCT-ND
+Change Component Footprint: Designator=C1 Old Footprint=Cap Ceramic 0603 SMD New Footprint=CAP ALU CASE G SMD
+Change Component Footprint: Designator=C15 Old Footprint=CAP TANT CASE C SMD New Footprint=CAP TANT CASE B SMD
+Change Component Footprint: Designator=Q5 Old Footprint=MMBT2222A New Footprint=6# DTC143ZKAT146-E
+Change Component Footprint: Designator=Q6 Old Footprint=MMBT2222A New Footprint=6# DTC143ZKAT146-E
+Change Component Footprint: Designator=IC1 Old Footprint=TSOP1838 New Footprint=CP2102-QFN28
+Added Component: Designator=D5(30# SK56L-TPMSCT-ND)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.mccsemi.com/up_pdf/SK52L-SK510L(DO-214AB).PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mccsemi.com/up_pdf/SK52L-SK510L(DO-214AB).PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "SK56L-TPMSCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D6(Led 0805G)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-074/S_110_LTST-C190KGKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://optoelectronics.liteon.com/upload/download/DS22-2000-074/S_110_LTST-C190KGKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "160-1426-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J1(TEST POINT 1mm)
+Added Component: Designator=R14(Res 0805 SMD)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "541-0.0ACT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Added Component: Designator=SW3(Button 3x4mm)
+Add component (AddParameter): Name = "Digikey"; Value = "CKN10384CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U10(20# TLV73333PDBVR)
+Add component (AddParameter): Name = "Digikey"; Value = "296-40673-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCCUSB Pin=D5-1
+Added Pin To Net: NetName=5V Pin=D5-2
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=PGND Pin=D6-2
+Added Pin To Net: NetName=USB_P Pin=IC1-4
+Added Pin To Net: NetName=USB_N Pin=IC1-5
+Added Pin To Net: NetName=3.3V_ESP Pin=IC1-6
+Added Pin To Net: NetName=3.3V_ESP Pin=IC1-7
+Added Pin To Net: NetName=5V Pin=IC1-8
+Added Pin To Net: NetName=NetIC1_9 Pin=IC1-9
+Added Pin To Net: NetName=USB_RTS Pin=IC1-24
+Added Pin To Net: NetName=NetIC1_25 Pin=IC1-25
+Added Pin To Net: NetName=NetIC1_26 Pin=IC1-26
+Added Pin To Net: NetName=USB_DTR Pin=IC1-28
+Added Pin To Net: NetName=PGND Pin=IC1-29
+Added Pin To Net: NetName=PGND Pin=IC1-29
+Added Pin To Net: NetName=3.3V_ESP Pin=J1-1
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=5V Pin=R14-2
+Added Pin To Net: NetName=IO0 Pin=SW3-1
+Added Pin To Net: NetName=PGND Pin=SW3-2
+Added Pin To Net: NetName=5V Pin=U10-1
+Added Pin To Net: NetName=PGND Pin=U10-2
+Added Pin To Net: NetName=5V Pin=U10-3
+Added Pin To Net: NetName=3.3V_ESP Pin=U10-5
+Added Member To Class: ClassName=05-USB-UART Member=Component D5 SK56L-TP
+Added Member To Class: ClassName=05-USB-UART Member=Component D6 GREEN 0805
+Added Member To Class: ClassName=05-USB-UART Member=Component J1 TEST POINT
+Added Member To Class: ClassName=02-ESP32 Member=Component R14 4K7
+Added Member To Class: ClassName=05-USB-UART Member=Component SW3 FLASH
+Added Member To Class: ClassName=05-USB-UART Member=Component U10 TLV73333PDBVR

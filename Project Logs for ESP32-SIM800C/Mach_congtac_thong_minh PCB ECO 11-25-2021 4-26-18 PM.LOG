@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=DGND Pin=C14-2
+Removed Pin From Net: NetName=DGND Pin=SW2-1
+Removed Member From Class: ClassName=02-ESP32 Member=C14
+Removed Member From Class: ClassName=02-ESP32 Member=R15
+Removed Member From Class: ClassName=02-ESP32 Member=SW2
+Added Pin To Net: NetName=NetU4_4 Pin=U4-4
+Added Net: Name=NetU4_4

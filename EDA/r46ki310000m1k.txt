@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.0.3";"";
+"SUPPLIER";"KEMET";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-04092019-132836";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"KEMET 100nF Polyester Film Capacitor 275 V ac, 560 V dc ±10% Through Hole";"";
+"TraceParts.InstanceId";"10-04092019-132836E8RSHDSI4OQJAJM2ZXUPXAC7P";"";
+"TraceParts.PartTitle";"KEMET 100nF Polyester Film Capacitor 275 V ac, 560 V dc ±10% Through Hole";"";
+"TraceParts.PartStatusId";"";"";
+"REFERENCE";"R46KI310000M1K";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/8708733?cm_mmc=en-ds-_-mcad-_-traceparts-_-8708733'";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"rs_stock_number";"8708733";"";
+"TraceParts.ClassPath";"";"";
